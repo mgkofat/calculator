@@ -8,12 +8,9 @@ input.display{
     width: 86.5%;
     text-align: right;
     font-size: 40px;
-    padding: 18px;
-    border: none;
+    padding: 16px;
+    
 }
-/* input.hide-display{
-   display: none;
-} */
 input{
     width: 73.5px;
     height: 70px;
